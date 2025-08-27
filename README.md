@@ -1,3 +1,29 @@
+<div align="center">
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyZTJzZjZocnR3ZzFqdHlrYTczNTJxOW92b3gyYm9hMGNua3Q2OXZ1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/grant-oseji-ba0470252" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="osejigrant@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://wa.link/9h2nlt" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Grantlinkz.Grantlinkz&left_color=blueviolet&right_color=red"  />
+</div>
+
+###
+
 <h1 align="left">Hello There 👋</h1>
 
 ###
@@ -6,15 +32,15 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About me 👩‍💻</h2>
 
 ###
 
-<p align="left">✨ Crafting Code, Debugging And Learning Since 2021💡<br>📚 I'm currently enrolled in the BSc Computer Science program at MIVA University<br>🎯 Goals: I'm dedicated to building web solutions that are both functional and beautiful. With a focus on clean code, intuitive design, and seamless user experiences, I strive to deliver results that surpass your expectations.<br>🎲 Fun fact: I'm fluent in three languages and love learning new ones. Coding and linguistics are my dual passions! 🌎💻</p>
+<p align="left">🔭 I’m working as Freelancer <br> ✨ Crafting Code, Debugging And Learning Since 2021💡<br>📚 I'm currently enrolled in the BSc Computer Science program at MIVA University<br>🎯 Goals: I'm dedicated to building web solutions that are both functional and beautiful. With a focus on clean code, intuitive design, and seamless user experiences, I strive to deliver results that surpass your expectations.<br>🎲 Fun fact: I'm fluent in three languages and love learning new ones. Coding and linguistics are my dual passions! 🌎💻</p>
 
 ###
 
-<h2 align="left">I Possess Proficient Coding Skills In The Following:</h2>
+<h2 align="left">I Possess Proficient Coding Skills In The Following 🤹:</h2>
 
 ###
 
