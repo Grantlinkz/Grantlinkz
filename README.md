@@ -109,7 +109,6 @@
 
 ###
 <h2 align="left">My Stats 📊:</h2>
-###
 
 
 <div align="center">
